@@ -1,0 +1,26 @@
+.venv/
+
+.env
+
+# python files
+*.py[cod]
+
+# svc
+*.orig
+*.rej
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+/dist
+/build
+
+*.pyc
+
+*.sqlite3
+/.idea/
+.idea/*
+.vscode/
